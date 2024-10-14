@@ -1,5 +1,3 @@
 <div align="center">
-
- # Kinhiro
-
+    <img src="docs/welcome.svg" style="width: 100%;" alt="Click to see the source"/>
 </div>
