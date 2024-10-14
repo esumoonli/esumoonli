@@ -1,5 +1,5 @@
-<div style="text-align: center">
+<center>
 
 # Kinhiro
 
-</div>
+</center>
